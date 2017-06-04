@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="anerikg/android_device_motorola_harpia" path="device/motorola/harpia" remote="github" revision="cm-14.1" />
+  <project name="SlimRoms/device_motorola_msm8916-common" path="device/motorola/msm8916-common" remote="github" revision="ng7.1" />
+  <project name="SlimRoms/kernel_motorola_msm8916" path="kernel/motorola/msm8916" remote="github" revision="ng7.1" />
+  <project name="SlimRoms/android_external_bson" path="external/bson" remote="github" revision="ng7.1" />
+  <project name="SlimRoms/packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="ng7.1" />
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-14.1" />
+  <project name="omnirom/android_packages_apps_Phonograph" path="packages/apps/Phonograph" remote="github" revision="android-7.1" />
+  <project name="platform/packages/apps/Browser2" path="packages/apps/Browser2" remote="aosp" revision="refs/tags/android-7.1.2_r8" />
+</manifest>
